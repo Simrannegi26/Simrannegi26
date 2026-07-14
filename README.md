@@ -25,7 +25,7 @@ Engineering is a continuous journey of growth. Right now, I am actively expandin
 
 I am actively looking for internship and full-time software engineering roles where I can contribute to meaningful projects, collaborate with brilliant minds, and ship code that matters.
 
-* **LinkedIn:** http://linkedin.com/in/simran-negi-3446a6335%7C
+* **LinkedIn:** http://linkedin.com/in/simran-negi-3446a6335
 * **Email:** simrannegi2621@gmail.com
 
 *“The best way to predict the future is to code it.”* Let’s build something incredible together!
