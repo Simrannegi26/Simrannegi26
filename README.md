@@ -9,8 +9,6 @@ My journey in tech is driven by a deep curiosity about how complex systems work 
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%234479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-* **Core CS Competencies:** Data Structures & Algorithms (DSA), Relational Databases (SQL), and Software Engineering Principles.
-
 I believe in choosing the right tool for the job. Over my engineering journey, I've built a solid foundation across multiple paradigms:
 
 * **Languages:** `Java` (Object-Oriented Design & Core Concepts), `Python` (Scripting, Data Pipelines & Automation), `C` (Low-level memory management & System fundamentals).
